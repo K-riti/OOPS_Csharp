@@ -1,0 +1,15 @@
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\copps.csproj.AssemblyReference.cache
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\copps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\copps.AssemblyInfoInputs.cache
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\copps.AssemblyInfo.cs
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\copps.csproj.CoreCompileInputs.cache
+C:\Users\BhaskarK\copps\bin\Debug\net6.0\copps.exe
+C:\Users\BhaskarK\copps\bin\Debug\net6.0\copps.deps.json
+C:\Users\BhaskarK\copps\bin\Debug\net6.0\copps.runtimeconfig.json
+C:\Users\BhaskarK\copps\bin\Debug\net6.0\copps.dll
+C:\Users\BhaskarK\copps\bin\Debug\net6.0\copps.pdb
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\copps.dll
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\refint\copps.dll
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\copps.pdb
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\copps.genruntimeconfig.cache
+C:\Users\BhaskarK\copps\obj\Debug\net6.0\ref\copps.dll
